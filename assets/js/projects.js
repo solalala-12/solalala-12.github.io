@@ -11,7 +11,7 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'assets/images/parentsvoice.jpg',
+            image: 'assets/images/parentsvoice.JPG',
             link: 'https://github.com/solalala-12/Tacotron_Deep-Voice',
             title: 'STT - Tacotron ',
             demo: false,
@@ -20,7 +20,7 @@ let render_projects = (slug) => {
             categories: ['featured', 'AI']
         },
         {
-            image: 'assets/images/singingconversion.jpg',
+            image: 'assets/images/singingconversion.JPG',
             link: 'https://github.com/solalala-12/Singing-Voice-Conversion/',
             title: 'Singing Conversion',
             demo: false,
@@ -38,7 +38,7 @@ let render_projects = (slug) => {
             categories: ['featured', 'AI']
         },
         {
-            image: 'assets/images/keyword.jpg',
+            image: 'assets/images/keyword.JPG',
             link: 'https://github.com/solalala-12/Keyword_Trend_Analysis',
             title: 'PageRank Positive/ Negative Keyword Analysis ',
             demo: false,
@@ -47,7 +47,7 @@ let render_projects = (slug) => {
             categories: ['featured', 'Analysis']
         },
         {
-            image: 'assets/images/k8s.jpg',
+            image: 'assets/images/k8s.JPG',
             link: 'https://github.com/solalala-12/Docker_images/tree/master/k8s_flask_gunicorn',
             title: 'REST API',
             demo: false,
