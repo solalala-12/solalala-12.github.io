@@ -11,7 +11,7 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'assets/images/parentvoice.jpg',
+            image: 'assets/images/parentsvoice.jpg',
             link: 'https://github.com/solalala-12/Tacotron_Deep-Voice',
             title: 'STT - Tacotron ',
             demo: false,
