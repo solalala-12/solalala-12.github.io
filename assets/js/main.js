@@ -22,11 +22,12 @@ function blog_posts() {
 
     // keeping it static, can be fetched from a blog dynamically as well
     let posts = [
-        /*
+        
         {
-            url: 'https://www.nagekar.com/2017/02/trip-to-bramhatal-uttarakhand.html',
-            title: 'Trek To Bramhatal (Uttarakhand)',
+            url: 'https://blog.naver.com/vsv8475',
+            title: 'Naver Blog ( not using now ) ',
         },
+        /*
         {
             url: 'https://www.nagekar.com/2017/08/privacy.html',
             title: 'Privacy - How I Converted',
@@ -77,6 +78,8 @@ function blog_posts() {
     }
 
     // for the more posts link
+
+    /*
     let post_template = `
     <div class="blog-post more-blogs" onclick="blog_link_click('https://www.nagekar.com');">
 
@@ -91,6 +94,7 @@ function blog_posts() {
         </div>
     </div>
     `;
+    */
 
     post_html.push(post_template);
 
