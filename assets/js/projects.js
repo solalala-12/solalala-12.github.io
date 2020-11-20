@@ -52,11 +52,11 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/kaggle.JPG',
             link: 'http://www.datamarket.kr/xe/index.php?mid=board_BoGi29&page=6&document_srl=52665',
-            title: '(Study) Kaggle Contest',
+            title: '(Study) Kaggle Contest : House Prices',
             demo: false,
             technologies: ['Python'],
-            description: "House Prices: Advanced Regression Techniques (loss 0.13 / not good..) ",
-            categories: ['featured', 'Analysis']
+            description: "House Prices: Advanced Regression Techniques (loss 0.13/not good..) ",
+            categories: ['Analysis']
             
         },
 

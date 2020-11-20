@@ -22,7 +22,7 @@ function blog_posts() {
 
     // keeping it static, can be fetched from a blog dynamically as well
     let posts = [
-        
+        /*
         {
             url: 'https://blog.naver.com/vsv8475',
             title: 'Naver Blog ( not using now ) ',
@@ -79,13 +79,13 @@ function blog_posts() {
 
     // for the more posts link
 
-    /*
+    
     let post_template = `
     <div class="blog-post more-blogs" onclick="blog_link_click('https://www.nagekar.com');">
 
         <div class="blog-link">
 
-            <h3><a href="https://www.nagekar.com">Visit the blog for more posts</a></h3>            
+            <h3><a href="https://blog.naver.com/vsv8475">Visit the blog for more posts (actually not using now) </a></h3>            
 
         </div>
 
@@ -94,7 +94,7 @@ function blog_posts() {
         </div>
     </div>
     `;
-    */
+    
 
     post_html.push(post_template);
 
