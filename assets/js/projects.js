@@ -31,7 +31,7 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/textsummarize.jpg',
             link: 'https://github.com/solalala-12/Text_Summarize_Seq2seq',
-            title: 'Text_Summarize - Seq2Seq2',
+            title: 'Text Summarize - Seq2Seq2',
             demo: 'https://github.com/solalala-12/Text_Summarize_Seq2seq/blob/master/View_predict.ipynb',
             technologies: ['Python'],
             description: "인사팀 주관식 설문조사 요약을 위한 Text Summarize Module / Text Summary Module for the Subjective Survey of the Human Resources Team",
@@ -40,16 +40,16 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/keyword.JPG',
             link: 'https://github.com/solalala-12/Keyword_Trend_Analysis',
-            title: 'PageRank Positive/ Negative Keyword Analysis ',
+            title: 'Positive/ Negative Keyword Analysis Correlation in the Context Using PageRank ',
             demo: false,
             technologies: ['Python'],
-            description: "북프렌 카페 데이터를 이용한 자사 특정 상품에 대한 긍/부정 키워드 연관 분석 / A Study on the Correlation of Positive and Negative Keywords for Specific Products Using Bookfren Cafe Data",
+            description: "북프렌 카페 데이터를 이용한 자사 특정 상품에 대한 긍/부정 키워드 연관 분석 / Analysis the Ccorrelation of Positive and Negative Keywords for Specific Products Using Bookfren Cafe Data",
             categories: ['featured', 'Analysis']
         },
         {
             image: 'assets/images/k8s.JPG',
             link: 'https://github.com/solalala-12/Docker_images/tree/master/k8s_flask_gunicorn',
-            title: 'REST API',
+            title: 'Building REST API',
             demo: false,
             technologies: ['Python','Flask','Docker','K8s'],
             description: "K8s 가상환경 플랫폼 구축 / Building the K8s Virtual Environment Platform",
