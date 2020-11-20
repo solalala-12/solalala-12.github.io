@@ -45,7 +45,21 @@ let render_projects = (slug) => {
             technologies: ['Python'],
             description: "북프렌 카페 데이터를 이용한 자사 특정 상품에 대한 긍/부정 키워드 연관 분석 / Analysis the Ccorrelation of Positive and Negative Keywords for Specific Products Using Bookfren Cafe Data",
             categories: ['featured', 'Analysis']
+
+
         },
+
+        {
+            image: 'assets/images/kaggle.JPG',
+            link: 'http://www.datamarket.kr/xe/index.php?mid=board_BoGi29&page=6&document_srl=52665',
+            title: '(Study) Kaggle Contest',
+            demo: false,
+            technologies: ['Python'],
+            description: "House Prices: Advanced Regression Techniques (loss 0.13 / not good..) ",
+            categories: ['featured', 'Analysis']
+            
+        },
+
         {
             image: 'assets/images/k8s.JPG',
             link: 'https://github.com/solalala-12/Docker_images/tree/master/k8s_flask_gunicorn',
