@@ -51,6 +51,9 @@ function blog_posts() {
 
     for(let post of posts) {
 
+        
+
+        /*
         let tags;
         
         if(post.tags) {
@@ -58,6 +61,7 @@ function blog_posts() {
                 return `<a href="https://www.nagekar.com/tags#${tag}">${tag}</a>`
             })
         }
+        */
 
         let post_template = `
         <div class="blog-post" onclick="blog_link_click('${post.url}');">
