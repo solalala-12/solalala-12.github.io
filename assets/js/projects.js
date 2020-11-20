@@ -16,7 +16,7 @@ let render_projects = (slug) => {
             title: 'STT - Tacotron ',
             demo: false,
             technologies: ['Python','Docker'],
-            description: "부모님이 읽어주는 동화 서비스 개발을 위한 STT Module / STT Module for Parents Reading Book AI Services",
+            description: "부모님이 읽어주는 동화 서비스 개발을 위한 STT Module / STT Module for the development of children's stor AI services read by parents",
             categories: ['featured', 'AI']
         },
         {
@@ -34,7 +34,7 @@ let render_projects = (slug) => {
             title: 'Text_Summarize - Seq2Seq2',
             demo: 'https://github.com/solalala-12/Text_Summarize_Seq2seq/blob/master/View_predict.ipynb',
             technologies: ['Python'],
-            description: "인사팀 주관식 설문조사 요약을 위한 Text Summarize Module ",
+            description: "인사팀 주관식 설문조사 요약을 위한 Text Summarize Module / Text Summary Module for the Subjective Survey of the Human Resources Team",
             categories: ['featured', 'AI']
         },
         {
@@ -43,7 +43,7 @@ let render_projects = (slug) => {
             title: 'PageRank Positive/ Negative Keyword Analysis ',
             demo: false,
             technologies: ['Python'],
-            description: "북프렌 카페 데이터를 이용한 자사 특정 상품에 대한 긍/부정 키워드 연관 분석",
+            description: "북프렌 카페 데이터를 이용한 자사 특정 상품에 대한 긍/부정 키워드 연관 분석 / A Study on the Correlation of Positive and Negative Keywords for Specific Products Using Bookfren Cafe Data",
             categories: ['featured', 'Analysis']
         },
         {
@@ -52,7 +52,7 @@ let render_projects = (slug) => {
             title: 'REST API',
             demo: false,
             technologies: ['Python','Flask','Docker','K8s'],
-            description: "K8s 가상환경 플랫폼 구축",
+            description: "K8s 가상환경 플랫폼 구축 / Building the K8s Virtual Environment Platform",
             categories: ['Platform']
         },
         {
