@@ -1,7 +1,7 @@
 
 $(document).ready(function() {
     general_utils();
-    //blog_posts();
+    blog_posts();
 })
 
 
@@ -22,6 +22,7 @@ function blog_posts() {
 
     // keeping it static, can be fetched from a blog dynamically as well
     let posts = [
+        /*
         {
             url: 'https://www.nagekar.com/2017/02/trip-to-bramhatal-uttarakhand.html',
             title: 'Trek To Bramhatal (Uttarakhand)',
@@ -42,6 +43,7 @@ function blog_posts() {
             url: 'https://www.nagekar.com/2018/07/eli5-how-https-works.html',
             title: 'ELI5 - How HTTPS Works',
         },
+        */
     ];
 
     let post_html = [];

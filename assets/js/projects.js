@@ -40,7 +40,7 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/keyword.JPG',
             link: 'https://github.com/solalala-12/Keyword_Trend_Analysis',
-            title: 'Positive/ Negative Keyword Analysis Correlation in the Context Using PageRank ',
+            title: 'Analysist Keyword Correlation Using PageRank ',
             demo: false,
             technologies: ['Python'],
             description: "북프렌 카페 데이터를 이용한 자사 특정 상품에 대한 긍/부정 키워드 연관 분석 / Analysis the Ccorrelation of Positive and Negative Keywords for Specific Products Using Bookfren Cafe Data",
