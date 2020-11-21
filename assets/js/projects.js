@@ -73,6 +73,7 @@ let render_projects = (slug) => {
             description: "K8s 가상환경 플랫폼 구축 / Building the K8s Virtual Environment Platform",
             categories: ['Platform']
         },
+        /*
         {
             image: 'assets/images/java.jpg',
             link: 'https://github.com/solalala-12/JAVA_PROJECT/tree/master/JAVA/java_final_project',
@@ -82,6 +83,7 @@ let render_projects = (slug) => {
             description: "학생 관리를 위한 자바 플랫폼",
             categories: ['Platform']
         },
+        */
         
     ]
 
