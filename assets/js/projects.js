@@ -59,7 +59,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Python'],
             description: "House Prices: Advanced Regression Techniques (loss 0.13/not good..) ",
-            categories: ['Analysis']
+            categories: ['featured','Analysis']
             
         },
         
@@ -71,7 +71,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Python','Flask','Docker','K8s'],
             description: "K8s 가상환경 플랫폼 구축 / Building the K8s Virtual Environment Platform",
-            categories: ['Platform']
+            categories: ['featured','Platform']
         },
         /*
         {
