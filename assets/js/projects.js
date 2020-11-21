@@ -10,6 +10,7 @@ let render_projects = (slug) => {
     $(`#${slug}`).addClass('white-button-hover');
 
     let projects_obj = [
+        /*
         {
             image: 'assets/images/parentsvoice.JPG',
             link: 'https://github.com/solalala-12/Tacotron_Deep-Voice',
@@ -19,6 +20,7 @@ let render_projects = (slug) => {
             description: "부모님이 읽어주는 동화 서비스 개발을 위한 STT Module / STT Module for the development of children's stor AI services read by parents",
             categories: ['featured', 'AI']
         },
+        */
         {
             image: 'assets/images/singingconversion.JPG',
             link: 'https://github.com/solalala-12/Singing-Voice-Conversion/',
@@ -28,6 +30,7 @@ let render_projects = (slug) => {
             description: "Singing Voice Conversion - Cycle GAN",
             categories: ['featured', 'AI']
         },
+        /*
         {
             image: 'assets/images/textsummarize.jpg',
             link: 'https://github.com/solalala-12/Text_Summarize_Seq2seq',
@@ -48,7 +51,7 @@ let render_projects = (slug) => {
 
 
         },
-
+        */
         {
             image: 'assets/images/kaggle.JPG',
             link: 'http://www.datamarket.kr/xe/index.php?mid=board_BoGi29&page=6&document_srl=52665',
@@ -59,6 +62,7 @@ let render_projects = (slug) => {
             categories: ['Analysis']
             
         },
+        
 
         {
             image: 'assets/images/k8s.JPG',
